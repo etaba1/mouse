@@ -1,0 +1,56 @@
+background(148, 251, 255); // RGB
+noStroke();
+
+fill(134, 232, 49);
+rect(0,300,400,100); //ground
+
+fill(160, 176, 186);
+ellipse(150,60,90,90);//left ear
+
+fill(252, 204, 255);
+ellipse(150,60,50,50);//inner left ear
+
+fill(160, 166, 186);
+ellipse(250,60,90,90);//right ear
+
+fill(252, 204, 255);
+ellipse(250,60,50,50);//inner right ear
+
+fill(160, 166, 186);
+ellipse(270, 180, 50, 50);//right arm
+
+fill(160, 166, 186);
+ellipse(130, 180, 50, 50);//left arm
+
+fill(252, 204, 255);
+ellipse(160, 300, 50, 50);//left leg
+
+fill(252, 204, 255);
+ellipse(230, 300, 50, 50);//right leg
+
+fill(160, 166, 186);
+ellipse(200, 220, 120, 150);//body
+
+fill(160, 166, 186);
+ellipse(200, 100, 120, 120);//head
+
+fill(255, 254, 255);
+ellipse(170,90,40,50);//left eye
+
+fill(0, 0, 0);
+ellipse(170,90,20,30);//inner left eye
+
+fill(255, 255, 255);
+ellipse(175,85,15,20);//left eye shine
+
+fill(255, 255, 255);
+ellipse(230,90,40,50);//right eye
+
+fill(0, 0, 0);
+ellipse(230,90,20,30);//inner right eye
+
+fill(255, 255, 255);
+ellipse(235,85,15,20);//right eye shine
+
+fill(252, 204, 255);
+ellipse(200,120, 25, 25);//nose
